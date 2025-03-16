@@ -15,4 +15,4 @@
 ## 📫 Как со мной связаться:
 - Telegram: @MiWanya24
 - [Email](mailto:miwanyalv@vk.com)
-- [VK] (https://vk.com/miwanyalv)
+- [VK](https://vk.com/miwanyalv)
