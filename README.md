@@ -8,7 +8,7 @@
 
 
 ## 📂 Мои проекты:
-- [VolunteerApp](https://github.com/MiWanya/Volunteer) - Мобильное приложение для волонтёрских программ на Flutter.
+- [VolunteerApp](https://github.com/MiWanya/VolunteerFinal) - Мобильное приложение для волонтёрских программ на Flutter.
 - [AppForTesting](https://github.com/MiWanya/task-manager) - Мобильное приложение для тестирования на Java.
 - [CreditCalculate](https://github.com/MiWanya/Calculate_Credits) - Мобильное приложение для расчёта кредитов.
 
