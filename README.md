@@ -16,3 +16,7 @@
 - Telegram: @MiWanya24
 - [Email](mailto:miwanyalv@vk.com)
 - [VK](https://vk.com/miwanyalv)
+
+## 📄 Моё резюме:
+- [Скачать резюме (PDF)](resume.pdf)
+- [Посмотреть резюме онлайн](https://krasnodar.hh.ru/resume/d8076eddff0c6931ae0039ed1f6d454b746831)
