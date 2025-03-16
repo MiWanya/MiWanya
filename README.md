@@ -13,5 +13,6 @@
 - [CreditCalculate](https://github.com/MiWanya/Calculate_Credits) - Мобильное приложение для расчёта кредитов.
 
 ## 📫 Как со мной связаться:
-- [Telegram](t.me/MiWanya24)
+- Telegram: @MiWanya24
 - [Email](mailto:miwanyalv@vk.com)
+- [VK] (https://vk.com/miwanyalv)
